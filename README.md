@@ -46,3 +46,4 @@ Make sure these tools are in your PATH env var. For corsy.py make sure to "chmod
 ## TODO
 - [ ] Add threading
 - [ ] Handel '/' at the end of urls gracefully
+- [ ] Modular rate limiting
