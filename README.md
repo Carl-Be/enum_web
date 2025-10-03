@@ -26,12 +26,18 @@ https://evil.corp.com:8433/
 ## Commands 
 initwebenum runs the following commands against a web server: 
 
-FFuF with common.txt
+FFuF with seclist common.txt
+
 nuclei for token,misconfig,and tech templates 
+
 nikto
+
 hakrawler
+
 dalfox
+
 corsy
+
 whatweb
 
 ## TODO
