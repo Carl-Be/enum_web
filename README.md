@@ -33,15 +33,15 @@ evil.corp.com/
 https://evil.corp.com:8433/
 
 ## Commands ran by initwebenum
+Make sure these tools are in your PATH env var. For corsy.py make sure to "chmod +x corsy.py"
 
-
-- FFuF with seclist common.txt
-- nuclei with token,misconfig,and tech templates 
-- nikto
-- hakrawler
-- dalfox
-- corsy
-- whatweb
+- [FFuF](https://github.com/ffuf/ffuf) with seclist common.txt
+- [nuclei](https://github.com/projectdiscovery/nuclei) with token,misconfig,and tech templates 
+- [nikto](https://github.com/sullo/nikto)
+- [hakrawler](https://github.com/hakluke/hakrawler)
+- [dalfox](https://github.com/hahwul/dalfox/releases) 
+- [corsy.py](https://github.com/s0md3v/Corsy)
+- [whatweb](https://github.com/urbanadventurer/WhatWeb)
 
 ## TODO
 - [ ] Add threading
