@@ -30,22 +30,16 @@ evil.corp.com/
 
 https://evil.corp.com:8433/
 
-## Commands 
-initwebenum runs the following commands against a web server: 
+## Commands ran by initwebenum
 
-FFuF with seclist common.txt
 
-nuclei for token,misconfig,and tech templates 
-
-nikto
-
-hakrawler
-
-dalfox
-
-corsy
-
-whatweb
+- FFuF with seclist common.txt
+- nuclei with token,misconfig,and tech templates 
+- nikto
+- hakrawler
+- dalfox
+- corsy
+- whatweb
 
 ## TODO
 - [ ] Add threading
