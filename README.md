@@ -12,15 +12,22 @@ the output files for the commands.
 The wordlist must include one URL per line. For now the script does not handel the '/' char  
 that might be at the end of an URL. Below are exmples of what a good and bad URL looks like. 
 
-Good URLs:
+### Good URLs:
+
 http://evil.corp.com:8080
+
 http://evil.corp.com
+
 https://evil.corp.com:8433
+
 https://evil.corp.com
 
-Bad URLs:
+### Bad URLs:
+
 evil.corp.com
+
 evil.corp.com/
+
 https://evil.corp.com:8433/
 
 ## Commands 
